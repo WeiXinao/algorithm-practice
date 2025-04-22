@@ -8,6 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
+// https://leetcode.cn/leetbook/read/top-interview-questions-easy/xnpvdm/
+
 func countAndSay(n int) string {
 	if n == 1 {
 		return "1"
