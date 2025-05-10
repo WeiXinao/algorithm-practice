@@ -97,5 +97,3 @@ func TestIsSymmetric(t *testing.T) {
 		})
 	}
 }
-
-
